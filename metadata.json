@@ -1,0 +1,8 @@
+{
+  "name": "ZiyoPlay",
+  "description": "3-6, 7-10, 11-15, 16-20 va 20+ yosh toifalari uchun alohida saralangan interaktiv veb-o'yinlar portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
